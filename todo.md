@@ -10,6 +10,8 @@ aws for deploy
 * buy domain
 * route 53 for dns
 * react default app
+* set up travis for CI
+* set up travis for ... CD?
 * welcome page
 * database schema
 ** collections: users, reviews, restaurants
