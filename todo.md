@@ -6,7 +6,9 @@ mongo db
 node backend
 react frontend
 aws for deploy
+github issues for work tracking
 
+* put all these into issues, break out into smaller as we go too!
 * buy domain
 * route 53 for dns
 * react default app
