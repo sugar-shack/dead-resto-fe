@@ -1,0 +1,23 @@
+{
+  "name": "dead-resto-fe",
+  "version": "1.0.0",
+  "description": "reviews for dead restraunts",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugar-shack/dead-resto-fe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugar-shack/dead-resto-fe/issues"
+  },
+  "homepage": "https://github.com/sugar-shack/dead-resto-fe#readme"
+}
