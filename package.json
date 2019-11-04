@@ -4,7 +4,8 @@
   "description": "reviews for dead restraunts",
   "main": "index.js",
   "dependencies": {
-    "create-react-app": "^3.2.0"
+    "create-react-app": "^3.2.0",
+    "eslint": "^6.6.0"
   },
   "devDependencies": {},
   "scripts": {
